@@ -1,5 +1,5 @@
-# 👋 Hi,  
-<h1 align="center">🚀 Reet Kumar Bind</h1>
+#  <h1 align="center">👋 Reet Kumar Bind</h1>
+
 
 ## 🚀 Full Stack Software Engineer | MERN Specialist | Mobile App Developer
 
